@@ -1,0 +1,6 @@
+vega
+pandas
+pytesseract
+cv2
+matplotlib
+opencv-python
