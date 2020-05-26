@@ -1,1 +1,1 @@
-# covid-img-to-text
+# COVID Image to Text
